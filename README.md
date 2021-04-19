@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gensor
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Boot and Javascript
 - 📫 How to reach me at www.linkedin.com/in/jakub-genšor-3a1326125
 
 <!---
