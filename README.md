@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gensor
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin, spring boot
 - 📫 How to reach me at www.linkedin.com/in/jakub-genšor-3a1326125
 
 <!---
